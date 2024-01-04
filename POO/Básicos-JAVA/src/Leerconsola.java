@@ -9,7 +9,7 @@ public class Leerconsola {
         int n2 = lector.nextInt();
         int mayor = n1>n2?n1:n2;
         System.out.print("el número mayor es: " +mayor);
-        
+
         lector.close();
 
     }
